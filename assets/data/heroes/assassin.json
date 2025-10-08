@@ -1,0 +1,27 @@
+{
+    "gusion": {
+        "portrait": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_82dbd20a7d0f274520895007898199e0.png",
+        "skin": [
+            {
+                "name": "Holy Blade",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
+                "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+                "tag": "Default",
+                "upgrades": [
+                    {
+                        "name": "Soul Revelation",
+                        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+                        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20epic.zip",
+                        "tag": "Epic"
+                    },
+                    {
+                        "name": "Dangerous Liaison",
+                        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
+                        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20valine.zip",
+                        "tag": "Valentines"
+                    }
+                ]
+            }
+        ]
+    }
+}
