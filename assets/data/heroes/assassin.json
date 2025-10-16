@@ -1,26 +1,2366 @@
 {
-    "gusion": {
-        "skin": [
-            {
-                "name": "Holy Blade",
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20240611065025",
-                "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
-                "tag": "Default",
-                "upgrades": [
-                    {
-                        "name": "Soul Revelation",
-                        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
-                        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20epic.zip",
-                        "tag": "Epic"
-                    },
-                    {
-                        "name": "Dangerous Liaison",
-                        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
-                        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20valine.zip",
-                        "tag": "Valentines"
-                    }
-                ]
-            }
+  "saber": {
+    "skin": [
+      {
+        "name": "Wandering Sword",
+        "image": "https://liquipedia.net/commons/images/b/b2/Saber_Wandering_Sword_Skin.jpg",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Onimaru(Old)",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest?cb\u003d20220525164336",
+            "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Codename - Storm",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb\u003d20220525164329",
+            "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20legend.zip",
+            "tag": "Legend"
+          },
+          {
+            "name": "S.A.B.E.R. Regulator",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb\u003d20220525164332",
+            "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20police.zip",
+            "tag": "S.A.B.E.R"
+          },
+          {
+            "name": "Iron Hound",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest?cb\u003d20221216103121",
+            "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20starlight%20iron.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Onimaru",
+            "image": "https://pbs.twimg.com/media/GWtJJdvaYAAbPit?format\u003djpg\u0026name\u003dlarge",
+            "script": "https://github.com/Maharlikoders/some-default-skin/raw/main/SABER/Saber%20Onimaru%20Revamp%20To%20Default%20Skin.zip",
+            "tag": "LuckyBox"
+          }
         ]
-    }
+      },
+      {
+        "name": "Fullmetal Ronin",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb\u003d20220525164330",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Codename - Storm",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb\u003d20220525164329",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20elite%20to%20legend.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Golden Flash",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb\u003d20220525164327",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Codename - Storm",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb\u003d20220525164329",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20normal%20to%20legend.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "karina": {
+    "skin": [
+      {
+        "name": "Shadow Blade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb\u003d20240605133151",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Doom Duelist",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb\u003d20220525164459",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Luckybox.zip",
+            "tag": "LuckyBox"
+          },
+          {
+            "name": "Leona",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb\u003d20220525164500",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20KOF.zip",
+            "tag": "King of Fighters"
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb\u003d20220525164456",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Christmas%20Carnival.zip",
+            "tag": "Christmas"
+          },
+          {
+            "name": "Gemini - Halo",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb\u003d20230514163400",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Zodiac.zip",
+            "tag": "Zodiac"
+          },
+          {
+            "name": "Sakura",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTkbmrF_5hfdLTazoq13XBtk8zkQZ3ipqktWkatpn9APeIIC9qZOK0UBqM\u0026s\u003d10",
+            "script": "https://github.com/missnapokita/Fix/raw/main/karina%20x%20sakura.zip",
+            "tag": "Anime/Naruto Shippuden"
+          },
+          {
+            "name": "Spider Lily",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb\u003d20220525164458",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Karina/Karina%20Default/Karina%20Elite%20-%20Spider%20Lily.zip",
+            "tag": "Elite"
+          }
+        ]
+      },
+      {
+        "name": "Phantom Blade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest?cb\u003d20220525164455",
+        "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Leona",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb\u003d20220525164500",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J11%20Karina%20Basic%20to%20KOF%20New.zip",
+            "tag": ""
+          },
+          {
+            "name": "Doom Duelist",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb\u003d20220525164459",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20elit%20phntom%20to%20LUCKYBOX.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Black Pearl",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest?cb\u003d20220525164457",
+        "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Doom Duelist",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb\u003d20220525164459",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Starlight%20to%20LUCKYBOX.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Spider Lily",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb\u003d20220525164458",
+        "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Leona",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb\u003d20220525164500",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Spyder%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Gemini - Halo",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb\u003d20230514163400",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Elite%20Spyder%20to%20ZODIAC.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Blood Moon",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest?cb\u003d20220525164502",
+        "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Leona",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb\u003d20220525164500",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20BloodMoon%20to%20KOF.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "fanny": {
+    "skin": [
+      {
+        "name": "Blade Dancer",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb\u003d20240605151224",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Lifeguard",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb\u003d20220525164706",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fanny_lifeguard.zip",
+            "tag": "Summer"
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Christmas.zip",
+            "tag": "Christmas"
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/SHipRoX/ALL-SCRIPT/raw/refs/heads/main/Fanny%20Mikasa%20Fixed%20UI.zip",
+            "tag": "Attack on Titan"
+          },
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Luckybox.zip",
+            "tag": "LuckyBox"
+          },
+          {
+            "name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fannyLightBorn.zip",
+            "tag": "Lightborn"
+          },
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip",
+            "tag": "Aspirants"
+          },
+          {
+            "name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Valentines.zip",
+            "tag": "Valentine"
+          },
+          {
+            "name": "Campus Youth",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb\u003d20220525164702",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Elite.zip",
+            "tag": "Elite"
+          },
+          {
+            "name": "Royal Cavalry",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb\u003d20220525164705",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Default/Fanny%20Starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "P.ACE",
+            "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/fanny.png",
+            "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/1fannyPace.zip",
+            "tag": "Anniversary"
+          }
+        ]
+      },
+      {
+        "name": "Campus Youth",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb\u003d20220525164702",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Lightborn.zip",
+            "tag": ""
+          },
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Aspirants.zip",
+            "tag": ""
+          },
+          {
+            "name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Valentines.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20AOT%20-%20Mikasa.zip",
+            "tag": ""
+          },
+          {
+            "name": "Royal Cavalry",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb\u003d20220525164705",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Starlight.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lifeguard",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb\u003d20220525164706",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Summer.zip",
+            "tag": ""
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Elite/Fanny%20Elite%20to%20Christmas.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Punk Princess",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb\u003d20220525164703",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Lightborn.zip",
+            "tag": ""
+          },
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Aspirants.zip",
+            "tag": ""
+          },
+          {
+            "name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Valentines.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20AOT%20-%20Mikasa.zip",
+            "tag": ""
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Christmas.zip",
+            "tag": ""
+          },
+          {
+            "name": "Royal Cavalry",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb\u003d20220525164705",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20s3/Fanny%20s3%20to%20Starlight.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Lifeguard",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb\u003d20220525164706",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20Epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20Lightborn.zip",
+            "tag": ""
+          },
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20Aspirant.zip",
+            "tag": ""
+          },
+          {
+            "name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20Valentines.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20AOT%20-%20Mikasa.zip",
+            "tag": ""
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Special/Fanny%20Summer%20to%20Christmas.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Royal Cavalry",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb\u003d20220525164705",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20to%20Lightborn.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20to%20AOT%20-%20Mikasa.zip",
+            "tag": ""
+          },
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20to%20Epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lifeguard",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb\u003d20220525164706",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20to%20Summer.zip",
+            "tag": ""
+          },
+          {
+            "name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Starlight/Fanny%20Starlight%20to%20Valentines.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Lightborn - Ranger",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Lightborn/Fanny%20Lightborn%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Lightborn/Fanny%20Lightborn%20to%20Aspirants.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Lightborn/Fanny%20Lightborn%20to%20Attack%20on%20Titan.zip",
+            "tag": ""
+          },
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Lightborn/Fanny%20Lightborn%20to%20Luckybox.zip",
+            "tag": ""
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Fanny/Fanny%20Lightborn/Fanny%20Lightborn%20to%20Christmas.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Christmas Carnibal",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb\u003d20220525164708",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/fanny%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20xmas%20to%20aspirants.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20xmas%20to%20mikasa.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Imperial Warrior",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb\u003d20220525164709",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/fanny%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20imperial%20to%20aspirants.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lightborn -Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb\u003d20220525164707",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20imperial%20to%20lb.zip",
+            "tag": ""
+          },
+          {
+            "name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb\u003d20240127074733",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20imperial%20to%20mikasa.zip",
+            "tag": ""
+          },
+          {
+            "name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb\u003d20220525164704",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20imperial%20to%20skylark.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Heart Afloat",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb\u003d20230212035453",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/fanny%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb\u003d20220714031230",
+            "script": "https://github.com/missnapokita/Assup/raw/main/fanny%20valine%20to%20aspirants.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "hayabusa": {
+    "skin": [
+      {
+        "name": "Crimson Shadow",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb\u003d20220525170632",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%2011_11.zip",
+            "tag": "11.11"
+          },
+          {
+            "name": "Experiment 21",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb\u003d20220525164754",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Annual%20Starlight.zip",
+            "tag": "Annual Starlight"
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Luckybox.zip",
+            "tag": "LuckyBox"
+          },
+          {
+            "name": "Exorcist Hayabusa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb\u003d20240520070715",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Exorcist.zip",
+            "tag": "Exorcists"
+          },
+          {
+            "name": "Minato Namikaze",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcT3ehy5hgfO6qDqEVTGy8owT_5Vksa3Jk4t5YuWgBCAeDd0BDPN3nNIgGUT\u0026s\u003d10",
+            "script": "https://github.com/missnapokita/anime-July-2024/raw/main/hayabusa%20x%20minato.zip",
+            "tag": "Anime/Naruto Shippuden"
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hayabusa/Hayabusa%20Default/Hayabusa%20Kakashi.zip",
+            "tag": "Naruto Shippuden"
+          }
+        ]
+      },
+      {
+        "name": "Future Enforcer",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest?cb\u003d20220525164752",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/haya%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20blue%20to%2011.zip",
+            "tag": ""
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20blue%20to%20epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Exorcist Hayabusa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb\u003d20240520070715",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20blue%20to%20exorcist.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Elite%20FutureEn%20to%20Kakashi.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Techie Ninja",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb\u003d20221118130654",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/haya%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20green%20to%2011.zip",
+            "tag": ""
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20green%20to%20epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Exorcist Hayabusa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb\u003d20240520070715",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20green%20to%20exorcist.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Techie%20to%20Kakashi.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Spacetime Shadow",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest?cb\u003d20220525164751",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/haya%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20normal%20to%2011.zip",
+            "tag": ""
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20LUCKYBOX.zip",
+            "tag": ""
+          },
+          {
+            "name": "Exorcist Hayabusa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb\u003d20240520070715",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20normal%20to%20exorcist.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Basic%20to%20Kakashi.zip",
+            "tag": ""
+          },
+          {
+            "name": "Summer Festival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest?cb\u003d20220628175954",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20SUMMER.zip",
+            "tag": ""
+          },
+          {
+            "name": "Experiment 21",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb\u003d20220525164754",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Haya%20Normal%20to%20ANNUAL.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Biological Weapon",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb\u003d20220525164756",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/haya%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20star%20to%2011.zip",
+            "tag": ""
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20star%20to%20epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Starlight%20to%20Kakashi.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Sushi Master",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest?cb\u003d20220628175954",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/haya%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Shura",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb\u003d20220525164757",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20summer%20to%2011.zip",
+            "tag": ""
+          },
+          {
+            "name": "Shadow of Obscurity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20summer%20to%20epic.zip",
+            "tag": ""
+          },
+          {
+            "name": "Exorcist Hayabusa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb\u003d20240520070715",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20summer%20to%20exorcist.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Summer%20to%20Kakashi.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Shadow of Obscurity",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb\u003d20220525164755",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Haya%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Kakashi Hatake",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb\u003d20250411101503",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Luckybox%20to%20Kakashi.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "natalia": {
+    "skin": [
+      {
+        "name": "Bright Claw",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb\u003d20240121131843",
+        "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Cyber Spectre",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb\u003d20220525164836",
+            "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20special%20cyber.zip",
+            "tag": "Create"
+          },
+          {
+            "name": "Grim Strangler",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb\u003d20220525164835",
+            "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/nata%20special%20grim.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Soul Huntress",
+            "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/natalia%20port.jpeg",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/nataliaSoulHintress.zip",
+            "tag": "Epic"
+          }
+        ]
+      }
+    ]
+  },
+  "yi sun-shin": {
+    "skin": [
+      {
+        "name": "Paenlong Legend",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb\u003d20220525171302",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20collector.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Fleet Warden",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb\u003d20220628180302",
+            "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20epic.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Azure Sentry",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb\u003d20220525164954",
+            "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20starlight.zip",
+            "tag": "Starlight"
+          }
+        ]
+      },
+      {
+        "name": "Major General",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest?cb\u003d20220525164949",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/yss%20normal%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Apocalypse Agent",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest?cb\u003d20220525164950",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/yss%20agent%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Roguish Ranger",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest?cb\u003d20220525164951",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/yss%20ranger%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Azure Sentry",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb\u003d20220525164954",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/yss%20star%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Fleet Warden",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb\u003d20220628180302",
+        "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lone Destructor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb\u003d20220525164953",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/yss%20epic%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Surging Torrent",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest?cb\u003d20240114092145",
+        "script": "https://github.com/Mexi23/Mm/raw/main/yss_def_backup.zip",
+        "tag": ""
+      }
+    ]
+  },
+  "harley": {
+    "skin": [
+      {
+        "name": "Mage Genius",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb\u003d20231231170336",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Dream Caster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb\u003d20220525165207",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/harleyDramCaster.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Great Inventor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb\u003d20220525165205",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20epic.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Referee",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb\u003d20220525165204",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20special%20ref.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Pulsar Prodigy",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb\u003d20220915122657",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20special%20starcaster.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Royal Magister",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb\u003d20220525165203",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "V E.N.O.M. Octopus",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb\u003d20220525165207",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20venom.zip",
+            "tag": "V.E.N.O.M"
+          }
+        ]
+      },
+      {
+        "name": "Naughty Joker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero422-portrait.png/revision/latest?cb\u003d20220525165202",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dream Caster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb\u003d20220525165207",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/harley%20normal%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Pulsar Prodigy",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb\u003d20220915122657",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dream Caster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb\u003d20220525165207",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/harley%20special%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Royal Magister",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb\u003d20220525165203",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dream Caster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb\u003d20220525165207",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/harley%20star%20to%20collector.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "lancelot": {
+    "skin": [
+      {
+        "name": "Blade of Roses",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb\u003d20240501053243",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Bren. Esports",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb\u003d20220525165252",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Champion.zip",
+            "tag": "Champion"
+          },
+          {
+            "name": "Empyrean Flame",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb\u003d20220804115345",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Dragon%20Tamer.zip",
+            "tag": "Dragon Tamer"
+          },
+          {
+            "name": "Floral Knight",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb\u003d20220525165250",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Epic%20-%20Floral%20Knight.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Royal Matador",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Epic%20-%20Royal%20Matador.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Swordmaster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Dawning%20Stars.zip",
+            "tag": "Dawning Stars"
+          },
+          {
+            "name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb\u003d20220525165246",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Christmas.zip",
+            "tag": "Christmas"
+          },
+          {
+            "name": "Pisces",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb\u003d20230212041010",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Zodiac.zip",
+            "tag": "Zodiac"
+          },
+          {
+            "name": "Guardian of the Shrine",
+            "image": "https://i.pinimg.com/736x/76/9e/9c/769e9c5f7294e060050fd62f7e1f059e.jpg",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Kishin%20Densetsu.zip",
+            "tag": "Kishin Densetsu"
+          },
+          {
+            "name": "Dark Earl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb\u003d20220525165248",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Starlight.zip",
+            "tag": "Starlight"
+          }
+        ]
+      },
+      {
+        "name": "Bren. Esports",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb\u003d20220525165252",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Champion/Lancelot%20Champion%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Champion/Lancelot%20Champion%20to%20Dawning%20Stars.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Empyrean Flame",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb\u003d20220804115345",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Dragon%20Tamer/Lancelot%20Dragon%20Tamer%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20dragon%20to%20hero.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Marques of Blades",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest?cb\u003d20230917045336",
+        "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Royal Matador",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20elite%20to%20matador.zip",
+            "tag": ""
+          },
+          {
+            "name": "Swordmaster",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20elite%20top%20to%20hero.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Floral Knight",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb\u003d20220525165250",
+        "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20floral%20to%20hero.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Masked Knight",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb\u003d20220525165245",
+        "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20normal%20to%20hero.zip",
+            "tag": ""
+          },
+          {
+            "name": "Royal Matador",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20normal%20to%20matador.zip",
+            "tag": ""
+          },
+          {
+            "name": "Pisces",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb\u003d20230212041010",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20normal%20to%20zodiac.zip",
+            "tag": ""
+          },
+          {
+            "name": "Guardian of the Shrine",
+            "image": "https://pbs.twimg.com/media/GO1cGoFXsAEFNHd.jpg",
+            "script": "https://github.com/Mornwish/Upgrade-Aassasin/raw/main/LANCELOT/Lancelot%20Kishin%20Densetsu%20To%20Basic.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Dark Earl",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb\u003d20220525165248",
+        "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20star%20to%20hero.zip",
+            "tag": ""
+          },
+          {
+            "name": "Royal Matador",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20star%20to%20matador.zip",
+            "tag": ""
+          },
+          {
+            "name": "Pisces",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb\u003d20230212041010",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20star%20to%20zodiac.zip",
+            "tag": ""
+          },
+          {
+            "name": "Guardian of the Shrine",
+            "image": "https://pbs.twimg.com/media/GO1cGoFXsAEFNHd.jpg",
+            "script": "https://github.com/Mornwish/Upgrade-Aassasin/raw/main/LANCELOT/Lancelot%20Kishin%20Densetsu%20To%20Starlight.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Christmas Carnival",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb\u003d20220525165246",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Christmas/Lancelot%20Christmas%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Swordmaster ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb\u003d20220525165251",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20xmas%20to%20hero.zip",
+            "tag": ""
+          },
+          {
+            "name": "Pisces",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb\u003d20230212041010",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20xmas%20to%20zodiac.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "helcurt": {
+    "skin": [
+      {
+        "name": "Shadowbringer",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb\u003d20240502101747",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Ice Scythe",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb\u003d20220525165334",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20elite.zip",
+            "tag": "Elite"
+          },
+          {
+            "name": "Evolved Predator",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb\u003d20220525165335",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20special.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Dream Prowler",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest?cb\u003d20240604030306",
+            "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Scorpio",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb\u003d20230917050311",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/helcurtScorpio.zip",
+            "tag": "Zodiac"
+          }
+        ]
+      },
+      {
+        "name": "Ice Scythe",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb\u003d20220525165334",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Scorpio",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb\u003d20230917050311",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/helcurt%20elite%20to%20zodiac.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Exoracial Executer",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest?cb\u003d20240524095044",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/helcurt%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Scorpio",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb\u003d20230917050311",
+            "script": "https://github.com/missnapokita/Fix-July-2024/raw/main/helcurt%20normal%20to%20zodiac.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "gusion": {
+    "skin": [
+      {
+        "name": "Holy Blade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb\u003d20240611065025",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Soul Revelation",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb\u003d20220714031432",
+            "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20epic.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Dangerous Liaison",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb\u003d20220915121902",
+            "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20valine.zip",
+            "tag": "Valentine"
+          },
+          {
+            "name": "V.E.N.O.M. Emperor Scorpion",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb\u003d20220525165448",
+            "script": "https://github.com/missnapokita/jan28_2024_ass/raw/main/gusion%20venom.zip",
+            "tag": "V.E.N.O.M"
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Default/Gusion%20KOF.zip",
+            "tag": "King of Fighters"
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/gusion%20legend.zip",
+            "tag": "Legend"
+          },
+          {
+            "name": "Night Owl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/gusion%20collector.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/gusion%2011.11.zip",
+            "tag": "11.11"
+          },
+          {
+            "name": "Desert Spider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb\u003d20240619171236",
+            "script": "https://github.com/missnapokita/New-Skins-June-8/raw/main/Gusion%20Starlight%20Spider.zip",
+            "tag": "Starlight"
+          }
+        ]
+      },
+      {
+        "name": "Hairstylist",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest?cb\u003d20220525165444",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20elite%20to%2011.11.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20elite%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Elite/Gusion%20Elite%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20elite%20to%20legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "V.E.N.O.M. Emperor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb\u003d20220525165448",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Elite%20to%20VENOM.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Moonlight Sonata",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb\u003d20220909095408",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20normal%20to%2011.11.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20normal%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Basic/Gusion%20Basic%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20normal%20to%20legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "Desert Spider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb\u003d20240619171236",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20normal%20to%20starlight.zip",
+            "tag": ""
+          },
+          {
+            "name": "V.E.N.O.M. Emperor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb\u003d20220525165448",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20VENOM.zip",
+            "tag": ""
+          },
+          {
+            "name": "Soul Revelation",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb\u003d20220714031432",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Normal%20to%20EPIC.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Soul Revelation",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb\u003d20220714031432",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Epic%20-%20Soul%20Revelation/Gusion%20Epic%20-%20Soul%20Revelation%20to%201111.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20soul%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Epic%20-%20Soul%20Revelation/Gusion%20Epic%20-%20Soul%20Revelation%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Epic%20-%20Soul%20Revelation/Gusion%20Epic%20-%20Soul%20Revelation%20to%20Legend.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Cyber Ops",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest?cb\u003d20220525165446",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20star%20to%2011.11.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20star%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight/Gusion%20Starlight%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20star%20to%20legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "Soul Revelation",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb\u003d20220714031432",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Old%20Starlight%20to%20EPIC.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Dangerous Liaison",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb\u003d20220915121902",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20valine%20to%2011.11.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20valine%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/missnapokita/Assup/raw/main/gusion%20valin%20to%20kof.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20valine%20to%20legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "V.E.N.O.M Emperor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb\u003d20220525165448",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20VENOM.zip",
+            "tag": ""
+          },
+          {
+            "name": "Soul Revelation",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb\u003d20220714031432",
+            "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Gusion%20Valentine%20to%20EPIC.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "V.E.N.O.M. Emperor Scorpion",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb\u003d20220525165448",
+        "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gusion%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Night Owl ",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20VENOM/Gusion%20VENOM%20to%20Collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "K",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20VENOM/Gusion%20VENOM%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20VENOM/Gusion%20VENOM%20to%20Legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20VENOM/Gusion%20VENOM%20to%2011_11.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Desert Spider",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest?cb\u003d20240619171236",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Gusion%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Cosmic Gleam",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb\u003d20220525165451",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight%20-%20Desert%20Spider/Gusion%20Starlight%20-%20Desert%20Spider%20to%20Legend.zip",
+            "tag": ""
+          },
+          {
+            "name": "K\u0027",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb\u003d20220525165449",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight%20-%20Desert%20Spider/Gusion%20Starlight%20-%20Desert%20Spider%20to%20KOF.zip",
+            "tag": ""
+          },
+          {
+            "name": "Night Owl",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb\u003d20220525165452",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight%20-%20Desert%20Spider/Gusion%20Starlight%20-%20Desert%20Spider%20to%20Collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Dimension Walker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb\u003d20221103134623",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight%20-%20Desert%20Spider/Gusion%20Starlight%20-%20Desert%20Spider%20to%201111.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "selena": {
+    "skin": [
+      {
+        "name": "Abyssal Witch",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb\u003d20240122041957",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Lady Vengeance",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb\u003d20220525165610",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Abyss.zip",
+            "tag": "Abyss"
+          },
+          {
+            "name": "Thunder Flash",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb\u003d20220525165607",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Luckybox.zip",
+            "tag": "LuckyBox"
+          },
+          {
+            "name": "Virus",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb\u003d20220525165604",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Epic%20-%20Virus.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Double Identity",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb\u003d20220525165606",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "S.T.U.N. Selena",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb\u003d20220525165609",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20STUN.zip",
+            "tag": "S.T.U.N"
+          },
+          {
+            "name": "Gemini - Shadow",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb\u003d20230514163409",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Zodiac.zip",
+            "tag": "Zodiac"
+          },
+          {
+            "name": "Gothic Curse",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb\u003d20220525165608",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Elite.zip",
+            "tag": "Elite"
+          },
+          {
+            "name": "Upcoming Skin",
+            "image": "https://github.com/Maharlikoders/random-files/raw/main/img_placeholder_portrait.png",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Epic%20-%20Upcoming%20Skin.zip",
+            "tag": "Epic"
+          },
+          {
+            "name": "Curse of Cinders",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb\u003d20250109163106",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Selena/Selena%20Default/Selena%20Zenith.zip",
+            "tag": "Zenith"
+          }
+        ]
+      },
+      {
+        "name": "Gothic Curse",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb\u003d20220525165608",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/selena%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lady Vengeance",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb\u003d20220525165610",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/selena%20elite%20to%20abbys.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Wasp Queen",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest?cb\u003d20220525165603",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/selena%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lady Vengeance",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb\u003d20220525165610",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/selena%20normal%20to%20abbys.zip",
+            "tag": ""
+          },
+          {
+            "name": "Curse of Cinder",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb\u003d20250109163106",
+            "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/sele%20normal%20to%20zenith.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Double Identity",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb\u003d20220525165606",
+        "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/selena%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lady Vengeance",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb\u003d20220525165610",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/selena%20star%20to%20abbys.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "hanzo": {
+    "skin": [
+      {
+        "name": "Akuma Ninja",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb\u003d20240112141926",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Undead King",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb\u003d20220525165726",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Elite.zip",
+            "tag": "Elite"
+          },
+          {
+            "name": "Insidous Tutor",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb\u003d20220525165727",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Special.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Soulfire Netherlord",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb\u003d20250411100227",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Hanzo/Hanzo%20Default/Hanzo%20Collector.zip",
+            "tag": "Collector"
+          }
+        ]
+      },
+      {
+        "name": "Undead King",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb\u003d20250117142003",
+        "script": "https://",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Soulfire Netherlord",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb\u003d20250411100227",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Elite%20to%20Collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Insidous Tutor",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb\u003d20250117142005",
+        "script": "https://",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Soulfire Netherlord",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb\u003d20250411100227",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Special%20to%20Collector.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "The Pale Phantom",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest?cb\u003d20250109154330",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Hanzo%20Backup.zip",
+        "tag": ""
+      }
+    ]
+  },
+  "ling": {
+    "skin": [
+      {
+        "name": "Cyan Finch",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb\u003d20240621034004",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Serene Plume",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Collector.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Night Shade",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb\u003d20220525170017",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Dragon%20Tamer.zip",
+            "tag": "Dragon Tamer"
+          },
+          {
+            "name": "Lord Shen",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb\u003d20220804115337",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Kung%20Fu%20Panda.zip",
+            "tag": "Kung Fu Panda"
+          },
+          {
+            "name": "Street Punk",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb\u003d20220525170016",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Cosmo Guard",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb\u003d20220525170019",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Special.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "M-World Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb\u003d20220525170021",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20M-World.zip",
+            "tag": "MWorld"
+          },
+          {
+            "name": "Neobeast Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb\u003d20250320125043",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F11%20LING%20NEOBEAST.zip",
+            "tag": "Neobeast"
+          }
+        ]
+      },
+      {
+        "name": "Night Shade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb\u003d20220525170017",
+        "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Serene Plume",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20epic%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Street Punk",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb\u003d20220525170016",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20epic%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "Neobeast Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb\u003d20250320125043",
+            "script": "https://github.com/Maharlikoders/random-skins/raw/main/Dragon%20Tamer%20into%20Neobeast%20Skin.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Fiery Dance",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb\u003d20240619154306",
+        "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Serene Plume",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20normal%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lord Shen",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb\u003d20220804115337",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20normal%20to%20kungfu.zip",
+            "tag": ""
+          },
+          {
+            "name": "Street Funk",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb\u003d20220525170016",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20normal%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "Neobeast Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb\u003d20250320125043",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20BASIC%20TO%20NEOBEAST.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Cosmo Guard",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb\u003d20220525170019",
+        "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Serene Plume",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20special%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Lord Shen",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb\u003d20220804115337",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/ling%20special%20to%20kungfu.zip",
+            "tag": ""
+          },
+          {
+            "name": "Street Funk",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb\u003d20220525170016",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20special%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "Neobeast Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb\u003d20250320125043",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20SPECIAL%20TO%20NEOBEAST.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Street Funk",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb\u003d20220525170016",
+        "script": "https://github.com/rahasia55/AG-BACKUP1/raw/master/backup%20ling.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Lord Shen",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb\u003d20220804115337",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/ling%20star%20to%20kungfu.zip",
+            "tag": ""
+          },
+          {
+            "name": "Serene Plume",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
+            "script": "https://github.com/missnapokita/Assup/raw/main/ling%20star%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Neobeast Ling",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb\u003d20250320125043",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/LING%20STARLIGHT%20TO%20NEOBEAST.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "benedetta": {
+    "skin": [
+      {
+        "name": "Shadow Ranger",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb\u003d20240611063830",
+        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Death Oath",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb\u003d20220525170255",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_deathaoth.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Panigale V4S Rider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_ducati.zip",
+            "tag": "Ducati"
+          },
+          {
+            "name": "Quantum Edge",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb\u003d20240314065930",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_quantumedge.zip",
+            "tag": "MPL"
+          },
+          {
+            "name": "Moonblade",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb\u003d20220525170256",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_moonblade.zip",
+            "tag": "Special"
+          },
+          {
+            "name": "Street Blow",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb\u003d20220525170254",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_street.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Phantom Mirage",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
+            "tag": "Covenant"
+          }
+        ]
+      },
+      {
+        "name": "Honor Blade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest?cb\u003d20220525170253",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Death Oath",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb\u003d20220525170255",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20normal%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Panigale V4S Rider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20to%20DUCATI.zip",
+            "tag": ""
+          },
+          {
+            "name": "Moonblade",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb\u003d20220525170256",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20to%20Special.zip",
+            "tag": ""
+          },
+          {
+            "name": "Street Blow",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb\u003d20220525170254",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20to%20Starlight.zip",
+            "tag": ""
+          },
+          {
+            "name": "Phantom Mirage",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20to%20Covenant.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Moonblade",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb\u003d20220525170256",
+        "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/benedetta%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Death Oath",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb\u003d20220525170255",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20special%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Panigale V4S Rider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20special%20to%20ducati.zip",
+            "tag": ""
+          },
+          {
+            "name": "Phantom Mirage",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20SPECIAL%20TO%20COVENANT.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Street Blow",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb\u003d20220525170254",
+        "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/benedetta%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Death Oath",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb\u003d20220525170255",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20star%20to%20collector.zip",
+            "tag": ""
+          },
+          {
+            "name": "Panigale V4S Rider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20star%20to%20ducati.zip",
+            "tag": ""
+          },
+          {
+            "name": "Phantom Mirage",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20STARLIGHT%20TO%20COVENANT.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Quantum Edge",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb\u003d20240314065930",
+        "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/benedetta%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Panigale V4S Rider",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
+            "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/bene%20mpl%20to%20ducati.zip",
+            "tag": ""
+          },
+          {
+            "name": "Phantom Mirage",
+            "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20BENEDETA%20MPL%20TO%20COVENANT.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "aamon": {
+    "skin": [
+      {
+        "name": "Duke of Shards",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb\u003d20220525171725",
+        "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Cyber Assassin",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb\u003d20221216103151",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_cyberassassin.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Vessel of Deceit",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb\u003d20240619172936",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/aamonVessel.zip",
+            "tag": "Vessel of Deceit"
+          },
+          {
+            "name": "Soul Reaver",
+            "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/aamon.png",
+            "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/1aamonSoul.zip",
+            "tag": "Collector"
+          }
+        ]
+      },
+      {
+        "name": "Night\u0027s Edge",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest?cb\u003d20220525170510",
+        "script": "https://github.com/JhoweeMylab/Assassin-Backup/raw/main/Aamon%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Cyber Assassin",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb\u003d20221216103151",
+            "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/aamon%20basic%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "Vessel of Deceit",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb\u003d20240619172936",
+            "script": "https://github.com/missnapokita/Fix-July-2024/raw/main/aamon%20normal%20to%20soul.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Noble Crest",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb\u003d20220628175950",
+        "script": "https://github.com/JhoweeMylab/Assassin-Backup/raw/main/Aamon%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Cyber Assassin",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb\u003d20221216103151",
+            "script": "https://github.com/missnapokita/upgrade/raw/main/aamon%20elite%20to%20starlight.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "julian": {
+    "skin": [
+      {
+        "name": "Scarlet Raven",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb\u003d20220525170638",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Megumi Fushiguro",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb\u003d20230212035450",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Jujutsu%20Kaisen.zip",
+            "tag": "Jujutsu Kaisen"
+          },
+          {
+            "name": "Thunder Warden",
+            "image": "https://github.com/Maharlikoders/random-files/raw/main/116.png",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Kurapika of Kurta",
+            "image": "https://i.imgur.com/5NvLqsp.jpeg",
+            "script": "https://github.com/Maharlikoders/random-skins/raw/main/Fixed%20Julian%20HxH%20Skin.zip",
+            "tag": "HxH"
+          },
+          {
+            "name": "Meowkin",
+            "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/cutout-1756031794.png",
+            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/julian_meowkin.zip",
+            "tag": "Mystic Meow"
+          }
+        ]
+      },
+      {
+        "name": "Silent Edge",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb\u003d20220525170651",
+        "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/julian%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Megumi Fushiguro",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb\u003d20230212035450",
+            "script": "https://github.com/missnapokita/fightupgrade/raw/main/julian%20normal%20to%20jjk.zip",
+            "tag": ""
+          },
+          {
+            "name": "Reversed String ",
+            "image": "https://i.imgur.com/dauYFag.png",
+            "script": "https://github.com/missnapokita/Emote-ni-malupiton/raw/refs/heads/main/julian%20normal%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "Kurapika",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest?cb\u003d20241207073222",
+            "script": "https://github.com/Maharlikoders/random-skins/raw/main/Basic%20%2B%20Logo%20-%20Julian%20HxH%20Fixed.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "joy": {
+    "skin": [
+      {
+        "name": "Flash of Miracle",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb\u003d20240501100807",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Royal Protector",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest?cb\u003d20240114155034",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Joy/Joy%20Default/Joy%20Elite.zip",
+            "tag": "Elite"
+          },
+          {
+            "name": "Feline Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb\u003d20221021123853",
+            "script": "https://github.com/missnapokita/skins/raw/main/joy%20normal.zip",
+            "tag": "Basic"
+          },
+          {
+            "name": "Exostar Scout",
+            "image": "https://pbs.twimg.com/media/GlbnhLxbwAESFzD?format\u003djpg\u0026name\u003dmedium",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20JOY%20STARLIGHT.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "ONIC PH",
+            "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/GyYu9aQboAAokod.jpg_large.jpg",
+            "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/joyFMVP.zip",
+            "tag": "Champion"
+          }
+        ]
+      }
+    ]
+  },
+  "nolan": {
+    "skin": [
+      {
+        "name": "Cosmic Wayfinder",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb\u003d20231224180931",
+        "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Nolan/Nolan%20Default/Nolan%20Backup.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Fashion Mogul",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest?cb\u003d20240502082224",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Nolan/Nolan%20Default/Nolan%20Starlight.zip",
+            "tag": "Starlight"
+          },
+          {
+            "name": "Voidwalker",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb\u003d20231227085831",
+            "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/nolan%20basic.zip",
+            "tag": "Basic"
+          },
+          {
+            "name": "The Navigator",
+            "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
+            "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Nolan/Nolan%20Default/Nolan%2011_11.zip",
+            "tag": "11.11"
+          }
+        ]
+      },
+      {
+        "name": "Voidwalker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb\u003d20231227085831",
+        "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/assets/scripts/hero/122/122.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Fashion Mogul",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest?cb\u003d20240502082224",
+            "script": "https://github.com/Maharlikoders/AG-Upgrade-Skin/raw/main/nolan%20basic%20to%20star.zip",
+            "tag": ""
+          },
+          {
+            "name": "The Navigator",
+            "image": "https://pbs.twimg.com/media/GZh9kwoaAAEhSei?format\u003djpg\u0026name\u003dlarge",
+            "script": "https://github.com/Maharlikoders/random-files/raw/main/12223.zip",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "name": "Fashion Mogul",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest?cb\u003d20240502082224",
+        "script": "https://github.com/missnapokita/Nov2024fix/raw/refs/heads/main/nolan%20backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "The Navigator",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest?cb\u003d20241012142659",
+            "script": "https://github.com/missnapokita/Nov2024fix/raw/refs/heads/main/nolan%20star%20to%2011.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  },
+  "suyou": {
+    "skin": [
+      {
+        "name": "Mask of the Immortal",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb\u003d20241021140902",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/SUYOU%20BACKUP.zip",
+        "tag": "Backup",
+        "upgrades": [
+          {
+            "name": "Sasuke",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest?cb\u003d20250411101450",
+            "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Soyou%20Naruto.zip",
+            "tag": "Naruto Shippuden"
+          }
+        ]
+      },
+      {
+        "name": "Venerated Vigilance",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest?cb\u003d20241002022300",
+        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Backup.zip",
+        "tag": "",
+        "upgrades": [
+          {
+            "name": "Sasuke Uchiha",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest?cb\u003d20250411101450",
+            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Suyou%20Basic%20to%20Sasuke.zip",
+            "tag": ""
+          }
+        ]
+      }
+    ]
+  }
 }
