@@ -86,6 +86,12 @@
             "image": "https://pbs.twimg.com/media/GWtKq4kakAAj86q?format\u003djpg\u0026name\u003dlarge",
             "script": "https://github.com/Maharlikoders/random-files/raw/main/0618.zip",
             "tag": "Special"
+          }, 
+          {
+            "name": "Celestial General",
+            "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/tigcollector.png",
+            "script": "https://github.com/Mexi23/Oct2025/raw/refs/heads/main/tigrel_collector.zip",
+            "tag": "Collector"
           }
         ]
       },
