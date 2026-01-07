@@ -378,6 +378,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb\u003d20220525164542",
             "script": "https://github.com/zenosml/bane/raw/main/bane_elite.zip",
             "tag": "Elite"
+          }, 
+          {
+            "name": "Lord of Scalding Sea",
+            "image": "https://github.com/Mexi23/DecUpdt25/raw/refs/heads/main/BaneIgmStarlight.jpeg",
+            "script": "https://github.com/Mexi23/DecUpdt25/raw/refs/heads/main/Bane_Starlight.zip",
+            "tag": "Starlight"
           }
         ]
       }
