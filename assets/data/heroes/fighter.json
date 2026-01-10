@@ -950,6 +950,12 @@
             "tag": "Anime/Naruto Shippuden"
           },
           {
+            "name": "Queler of Chaos",
+            "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
+            "script": "https://github.com/Mexi23/Oct2025/raw/refs/heads/main/sun_annualstar.zip",
+            "tag": "Starlight"
+          }, 
+          {
             "name": "Rock Star",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb\u003d20240121135350",
             "script": "https://github.com/Maharlikoders/some-default-skin-2/raw/main/Sun%20Special.zip",
