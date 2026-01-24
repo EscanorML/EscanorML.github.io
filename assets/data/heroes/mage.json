@@ -578,6 +578,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero335-portrait.png/revision/latest?cb\u003d20220525165029",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Cyclops/Cyclops%20Default/Cyclops%20Starlight.zip",
             "tag": "Starlight"
+          }, 
+          {
+            "name": "Spongebob",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png" ,
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
+            "tag": "Spongebob Square Pants"
           }
         ]
       },
