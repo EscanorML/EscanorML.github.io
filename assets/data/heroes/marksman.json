@@ -346,6 +346,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero101312-portrait.png/revision/latest?cb\u003d20241207073228",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Clint/Clint%20Default/Clint%20Mythic.zip",
             "tag": "Mythic"
+          }, 
+          {
+            "name": "Vessel of Ruin",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_vessels.png",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_soulvessel.zip",
+            "tag": "Soul Vessels"
           }
         ]
       },
