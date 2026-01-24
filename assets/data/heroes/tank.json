@@ -1092,6 +1092,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest?cb\u003d20220526053627",
             "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gloo%20special.zip",
             "tag": "Special"
+          }, 
+          {
+            "name": "Patrick",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest?cb\u003d20240405034912",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_spongebob.zip" ,
+            "tag": "Spongebob Squarepants"
           }
         ]
       }
