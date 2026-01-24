@@ -1990,6 +1990,12 @@
             "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format\u003djpg\u0026name\u003dsmall",
             "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
             "tag": "Covenant"
+          }, 
+          {
+            "name": "Soul of Pride",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_vessels.png",
+            "script": "//github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_soulvessel.zip",
+            "tag": "Soul Vessels"
           }
         ]
       },
