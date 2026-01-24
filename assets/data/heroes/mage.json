@@ -1778,6 +1778,12 @@
             "image": "https://i.imgur.com/K2zTrYN.png",
             "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/cecilionHisoka.zip",
             "tag": "HxH"
+          }, 
+          {
+            "name": "Vessel of Gluttony",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_vessels.png",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cecillion_soulvessel.zip",
+            "tag": "Soul Vessels"
           }
         ]
       },
