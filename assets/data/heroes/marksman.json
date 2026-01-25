@@ -1773,7 +1773,13 @@
             "name": "Thunder Ascendant",
             "image": "https://github.com/Mexi23/StS_MM_Dec/raw/refs/heads/main/grang_m7_img.jpeg",
             "script": "https://github.com/Mexi23/StS_MM_Dec/raw/refs/heads/main/Granger_def_m7.zip",
-            "tag": "New"
+            "tag": "M7"
+          }, 
+          {
+            "name": "Cosmic Finality",
+            "image": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/granger_prime%20(1).jpg" ,
+            "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/granger_basic_prime.zip" ,
+            "tag": "Prime" 
           }
         ]
       },
