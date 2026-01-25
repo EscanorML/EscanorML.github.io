@@ -3329,9 +3329,9 @@
         "upgrades": [
           {
             "name": "Neobeast Fredrinn",
-            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb\u003d20230805043932",
-            "script": "https://github.com/missnapokita/fightupgrade/raw/main/fred%20normal%20to%20neo.zip",
-            "tag": ""
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_neobeast.zip" ,
+            "tag": "Neobeast"
           },
           {
             "name": "SPARKLE Fredrinn",
