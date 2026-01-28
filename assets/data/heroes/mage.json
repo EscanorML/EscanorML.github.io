@@ -858,6 +858,12 @@
             "image": "https://pbs.twimg.com/media/GS7qhR7bIAAPUQf.jpg:large",
             "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/odette%20star.zip",
             "tag": "Starlight"
+          }, 
+          {
+            "name": "Song of Devotion",
+            "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette%20valentines.jpg",
+            "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip",
+            "tag": "Valentine"
           }
         ]
       }
