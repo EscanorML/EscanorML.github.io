@@ -12,5 +12,12 @@
        "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
        "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
        "tag": "Soul Vessels",
+     }, 
+     {
+       "heroid": 47, 
+       "name": "Blade of Devotion",
+       "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+       "tag": "Valentine",
      }
 ] 
