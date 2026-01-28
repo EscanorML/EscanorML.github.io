@@ -1070,6 +1070,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb\u003d20220525165248",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Default/Lancelot%20Starlight.zip",
             "tag": "Starlight"
+          }, 
+          {
+            "name": "Blade of Devotion",
+            "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
+            "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/lancelot_valentines.zip",
+            "tag": "Valentines"
           }
         ]
       },
