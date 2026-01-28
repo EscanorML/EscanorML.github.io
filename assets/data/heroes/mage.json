@@ -1846,6 +1846,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb\u003d20250619142204",
             "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/luoyiStarborne.zip",
             "tag": "Create"
+          }, 
+          {
+            "name": "Lady Dragon",
+            "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251006_194627179.png",
+            "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/louyi_epic.zip",
+            "tag": "Epic"
           }
         ]
       },
