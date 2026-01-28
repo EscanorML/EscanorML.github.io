@@ -956,6 +956,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb\u003d20220525165207",
             "script": "https://github.com/missnapokita/June2024-H-I-J/raw/main/harley%20venom.zip",
             "tag": "V.E.N.O.M"
+          }, 
+          {
+            "name": "Rippling Koi",
+            "image": "https://github.com/zetsuya05/january/raw/refs/heads/main/harley_newstarlightimage.jpg",
+            "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/harley_newstarlight.zip",
+            "tag": "Starlight"
           }
         ]
       },
