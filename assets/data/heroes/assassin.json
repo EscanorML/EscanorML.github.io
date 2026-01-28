@@ -2030,6 +2030,12 @@
             "tag": ""
           },
           {
+            "name": "Soul of Pride",
+            "image": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_vessels.png" ,
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_soulvessel.zip" ,
+            "tag": "Soul Vessels"
+          },
+          {
             "name": "Panigale V4S Rider",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb\u003d20230917045324",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Benedetta/Benedetta%20Basic/Benedetta%20Basic%20to%20DUCATI.zip",
