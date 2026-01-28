@@ -5,5 +5,12 @@
        "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
        "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
        "tag": "Eternal Season",
+     }, 
+     {
+       "heroid": 97, 
+       "name": "Vessel of Pride",
+       "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
+       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+       "tag": "Soul Vessels",
      }
 ] 
