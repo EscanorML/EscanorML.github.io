@@ -19,5 +19,12 @@
        "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
        "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
        "tag": "Valentine",
+     }, 
+     {
+       "heroid": 79, 
+       "name": "Cosmic Finality",
+       "image": "https://github.com/zetsuya05/january/raw/main/granger_primeimage.jpg",
+       "script": "https://github.com/zetsuya05/january/raw/main/granger_prime.zip",
+       "tag": "Prime",
      }
 ] 
