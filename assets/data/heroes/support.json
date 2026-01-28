@@ -502,6 +502,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1124-portrait.png/revision/latest?cb\u003d20230212035445",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Floryn/Floryn%20Default/Floryn%20Elite.zip",
             "tag": "Elite"
+          }, 
+          {
+            "name": "Arrow of Spring",
+            "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
+            "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+            "tag": "Eternal Season" 
           }
         ]
       },
