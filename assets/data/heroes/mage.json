@@ -2150,6 +2150,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb\u003d20240923124141",
             "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F13%20NOVARIA%20COLLECTOR.zip",
             "tag": "Collector"
+          }, 
+          {
+            "name": "Lunar Scion",
+            "image": "https://github.com/zetsuya05/january/raw/refs/heads/main/novaria_specialimage.jpg",
+            "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/novaria_special.zip",
+            "tag": "Special"
           }
         ]
       },
