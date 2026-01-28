@@ -2158,7 +2158,7 @@
           {
             "name": "The Annihilator",
             "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
-            "script": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/4thamuzAnnihilator.zip",
+            "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/thamuz_11.zip" ,
             "tag": "11.11"
           }
         ]
@@ -3082,6 +3082,12 @@
             "image": "https://pbs.twimg.com/media/GWtKiYnacAACwN6?format\u003djpg\u0026name\u003dlarge",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Paquito/Paquito%20Default/Paquito%20FMVP.zip",
             "tag": "FMVP"
+          }, 
+          {
+            "name": "Demontech Striker",
+            "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_160420613.png" ,
+            "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/pacquito_epic.zip" ,
+            "tag": "Epic"
           }
         ]
       },
@@ -3252,6 +3258,12 @@
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb\u003d20230212035449",
             "script": "https://github.com/missnapokita/anime-July-2024/raw/main/yin%20x%20gojo.zip",
             "tag": "Anime/Jujutsu Kaisen"
+          }, 
+          {
+            "name": "Dauntless Battlelord",
+            "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251005_174434255.png" ,
+            "script": "https://github.com/tin0521/Oct2025/raw/main/yin_collector.zip",
+            "tag": "Collector"
           }
         ]
       },
