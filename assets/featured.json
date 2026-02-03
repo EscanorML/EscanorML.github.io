@@ -3,28 +3,35 @@
        "heroid": 112, 
        "name": "Arrow of Spring",
        "image": "https://github.com/tin0521/January_2026/blob/main/floryn%20ethernal.jpg?raw=true",
-       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip",
+       "script": "https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/flory_ethernalBG.jpg",
        "tag": "Epic"
      }, 
      {
        "heroid": 97, 
        "name": "Vessel of Pride",
        "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
-       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+       "script": "https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/benedetta_SoulBG.jpeg",
        "tag": "Soul Vessels"
      }, 
      {
        "heroid": 47, 
        "name": "Blade of Devotion",
        "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
-       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+       "script": "https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/Lancelot_bg.jpeg",
        "tag": "Valentine"
      }, 
      {
        "heroid": 79, 
        "name": "Cosmic Finality",
        "image": "https://github.com/zetsuya05/january/raw/main/granger_primeimage.jpg",
-       "script": "https://github.com/zetsuya05/january/raw/main/granger_prime.zip",
+       "script": "https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/granger-m7-and-prime-skin-splash-art-you-can-get-both-for-v0-vllsf257eewf1.jpg",
        "tag": "Prime"
+     }
+     {
+       "heroid": 18, 
+       "name": "The Beacon",
+       "image": "https://github.com/tin0521/January_2026/blob/main/layla%20legend.jpg?raw=true",
+       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/layla_def_legend.zip",
+       "tag": "Legend"
      }
 ] 
