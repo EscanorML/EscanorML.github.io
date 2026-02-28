@@ -42,6 +42,13 @@
        "tag": "Legend"
      },
      {
+       "heroid": 56, 
+       "name": "Minato",
+       "image": "https://github.com/zetsuya05/january_2026/blob/main/Minato-Wallpaper-Desktop.jp" ,
+       "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zi" ,
+       "tag": "Naruto Shippuden"
+     }, 
+     {
        "heroid": 18, 
        "name": "The Beacon",
        "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/images%20(49).jpeg",
