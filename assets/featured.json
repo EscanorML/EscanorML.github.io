@@ -1,5 +1,12 @@
 [
      {
+       "heroid": 56, 
+       "name": "Minato",
+       "image": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Minato-Wallpaper-Desktop.jp",
+       "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zi",
+       "tag": "Naruto Shippuden"
+     },
+     {
        "heroid": 112, 
        "name": "Arrow of Spring",
        "image": "https://github.com/Mexi23/Backgrounds_Portraits/raw/refs/heads/main/flory_ethernalBG.jpg",
@@ -41,13 +48,6 @@
        "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
        "tag": "Legend"
      },
-     {
-       "heroid": 56, 
-       "name": "Minato",
-       "image": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Minato-Wallpaper-Desktop.jp",
-       "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zi",
-       "tag": "Naruto Shippuden"
-     }, 
      {
        "heroid": 18, 
        "name": "The Beacon",
