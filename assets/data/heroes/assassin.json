@@ -2214,6 +2214,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Itachi",
+            "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+            "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip",
+            "tag": "Naruto Shippuden"
+          },
+          {
             "name": "Megumi Fushiguro",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb\u003d20230212035450",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Julian/Julian%20Default/Julian%20Jujutsu%20Kaisen.zip",
