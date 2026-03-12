@@ -122,6 +122,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Midnights Allure",
+            "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+            "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip",
+            "tag": "Covenant"
+          },
+          {
             "name": "Atomic Pop Eudora",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb\u003d20230316133651",
             "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/eudora%20atomic%20pop.zip",
@@ -1691,6 +1697,12 @@
         "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lylia%20backup.zip",
         "tag": "Backup",
         "upgrades": [
+          {
+            "name": "Phantasmal Reverly",
+            "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+            "script": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip",
+            "tag": "Covenant"
+          },
           {
             "name": "Haunted Doll",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb\u003d20220525170051",
