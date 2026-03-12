@@ -528,6 +528,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Collector Titans",
+            "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123405.jpg",
+            "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Codename: Rhino",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest?cb\u003d20220525165223",
             "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/grock%20epic.zip",
