@@ -1,5 +1,12 @@
 [
      {
+       "heroid": 71, 
+       "name": "Starbound Sentry",
+       "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+       "script": "https://github.com/zetsuya05/january/raw/main/kimmy_collector.zip",
+       "tag": "Collector"
+     },
+     {
        "heroid": 56, 
        "name": "Minato",
        "image": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Minato-Wallpaper-Desktop.jpg",
