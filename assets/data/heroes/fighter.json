@@ -510,7 +510,7 @@
           {
             "name": "Galactic Vanquisher",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb\u003d20240114101726",
-            "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/freya_legendd.zip",
+            "script": "https://github.com/tin0521/ff/raw/main/freya_legend.zip",
             "tag": "Legend"
           },
           {
@@ -3322,7 +3322,7 @@
           {
             "name": "Neobeast Fredrinn",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb\u003d20230805043932",
-            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinNeo.zip",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_neobeast.zip",
             "tag": "Neobeast"
           },
           {
@@ -3436,7 +3436,7 @@
           {
             "name": "Naruto",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb\u003d20250411101452",
-            "script": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/lucasNaruto.zip",
+            "script": "https://github.com/tin0521/ff/raw/main/lukas_naruto.zip",
             "tag": "Naruto Shippuden"
           }
         ]
@@ -3450,8 +3450,9 @@
           {
             "name": "Naruto Uzumaki",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb\u003d20250411101452",
-            "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Lucas%20Basic%20to%20Naruto.zip",
-            "tag": ""
+            "script": "https://github.com/tin0521/ff/raw/main/lukas_naruto.zip" 
+            ,
+            "tag": "Naruto Shippuden"
           }
         ]
       }
