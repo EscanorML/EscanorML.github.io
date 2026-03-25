@@ -1566,6 +1566,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Starbound Sentry",
+            "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+            "script": "https://github.com/zetsuya05/january/raw/main/kimmy_collector.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Frost Wing",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb\u003d20220525165743",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Kimmy/Kimmy%20Default/Kimmy%20Dragon%20Tamer.zip",
