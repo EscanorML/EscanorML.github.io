@@ -7,6 +7,13 @@
        "tag": "Collector"
      },
      {
+       "heroid": 7, 
+       "name": "Obsidian Blade",
+       "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/FB_IMG_1774425700292.jpg",
+       "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/alucard_legend-revamped.zip",
+       "tag": "Legend"
+     }, 
+     {
        "heroid": 56, 
        "name": "Minato",
        "image": "https://github.com/zetsuya05/january_2026/raw/refs/heads/main/Minato-Wallpaper-Desktop.jpg",
