@@ -1810,6 +1810,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Phantom Current",
+            "image": "https://github.com/tin0521/Sept/blob/main/Picsart_26-04-07_22-13-48-230.jpg", 
+            "script": "https://github.com/zetsuya05/april2026/blob/main/ling_phantom.zip",
+            "tag": "Legend"
+          },
+          {
             "name": "Serene Plume",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb\u003d20220525170020",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Ling/Ling%20Default/Ling%20Collector.zip",
