@@ -1,5 +1,19 @@
 [
      {
+       "heroid": 95, 
+       "name": "Tidescale Sealord",
+       "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZbG.jpg",
+       "script": "https://github.com/Mexi23/April_2026/blob/refs/heads/main/yuZhing_def_allstar.zip",
+       "tag": "Legend"
+     },
+     {
+       "heroid": 84, 
+       "name": "Phantom Current",
+       "image": "https://github.com/tin0521/Sept/raw/refs/heads/main/images%20-%202026-04-07T220945.808.jpeg",
+       "script": "https://github.com/zetsuya05/april2026/blob/main/ling_phantom.zip",
+       "tag": "Legend"
+     },
+     {
        "heroid": 71, 
        "name": "Starbound Sentry",
        "image": "https://github.com/zetsuya05/tank_img/raw/refs/heads/main/upload_2e56294077f4b02daf2112060decefab_89111982-f2f4-424a-bc31-36bd3ee10427.jpg",
