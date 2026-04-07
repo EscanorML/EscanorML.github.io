@@ -926,6 +926,12 @@
             "tag": "Collector"
           },
           {
+            "name": "Seaworn Oracle",
+            "image": "https://github.com/tin0521/Sept/raw/main/Picsart_26-04-07_22-13-15-992.jpg",
+            "script": "https://github.com/zetsuya05/april2026/raw/main/pharsa_seaworn.zip",
+            "tag": "Legend"
+          },
+          {
             "name": "Neon Shingetsu",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb\u003d20230917045337",
             "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/pharsa%20epic.zip",
