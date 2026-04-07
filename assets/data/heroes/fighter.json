@@ -2896,6 +2896,12 @@
             "tag": "Collector"
           },
           {
+            "name": "Tidescale Sealord",
+            "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZPortrait.jpg",
+            "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yuZhing_def_allstar.zip",
+            "tag": "Legend"
+          },
+          {
             "name": "Cosmic Dragon",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest?cb\u003d20240114145030",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Yu%20Zhong/Yu%20Zhong%20Default/Yu%20Zhong%20Prime.zip",
