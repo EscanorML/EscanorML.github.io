@@ -14,6 +14,12 @@
             "tag": "Epic"
           },
           {
+          "name": "Dreaming Monarch",
+            "image": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/images%20-%202026-04-09T041029.737.jpeg",
+            "script": "https://github.com/zetsuya05/s2s/raw/main/alice_collector.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Divine Owl",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb\u003d20220525164350",
             "script": "https://github.com/missnapokita/june-2024/raw/main/Alice%20%5BSpecial%5D%20Divine%20Owl.zip",
