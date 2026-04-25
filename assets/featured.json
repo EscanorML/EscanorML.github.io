@@ -1,5 +1,12 @@
 [
      {
+       "heroid": 53, 
+       "name": "Angelic Agent",
+       "image": "https://github.com/zetsuya05/s2s/raw/refs/heads/main/images%20-%202026-04-22T011622.886.jpeg",
+       "script": "https://github.com/zetsuya05/s2s/raw/main/lesley_legend.zip",
+       "tag": "Legend"
+     },
+     {
        "heroid": 95, 
        "name": "Tidescale Sealord",
        "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZbG.jpg",
