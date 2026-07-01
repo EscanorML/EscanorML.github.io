@@ -572,6 +572,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Ken",
+            "image": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/images%20-%202026-06-16T000133.613.jpeg",
+            "script": "https://github.com/zetsuya05/june2026/raw/refs/heads/main/chou_basic_ken2.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Dragon Boy",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb\u003d20220525164851",
             "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Default/Chou%20Epic.zip",
