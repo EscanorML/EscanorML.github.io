@@ -3048,6 +3048,12 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Ryu",
+            "image": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/images%20-%202026-06-16T014521.387.jpeg",
+            "script": "https://github.com/zetsuya05/june2026/raw/main/paquito_def_ryu2.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Blazing Tiger",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb\u003d20230514163428",
             "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20collector.zip",
