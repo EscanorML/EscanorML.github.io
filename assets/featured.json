@@ -1,5 +1,12 @@
 [
      {
+       "heroid": 103, 
+       "name": "Ryu",
+       "image": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/HJaanbrbMAAqP9T.jpg",
+       "script": "https://github.com/zetsuya05/june2026/raw/main/paquito_def_ryu2.zip",
+       "tag": "Collector"
+     },
+     {
        "heroid": 53, 
        "name": "Angelic Agent",
        "image": "https://github.com/zetsuya05/s2s/raw/refs/heads/main/images%20-%202026-04-22T011622.886.jpeg",
