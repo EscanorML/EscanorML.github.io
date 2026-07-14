@@ -2378,6 +2378,18 @@
         "tag": "Backup",
         "upgrades": [
           {
+            "name": "Chun-li",
+            "image": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/guin_chun1.jpg",
+            "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/guin_def_chun2.zip",
+            "tag": "Collector"
+          },
+          {
+            "name": "Malupiton",
+            "image": "https://cdn.jsdelivr.net/gh/Mexi23/custom_funny_skins@main/file_00000000fd5c723084c0c2b9b60f5dd2.png",
+            "script": "https://github.com/Mexica23/Funny-Skins/raw/refs/heads/main/Malupiton-Chunli.zip",
+            "tag": "Collector"
+          },
+          {
             "name": "Elegant Butterfly",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb\u003d20240114135706",
             "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20elite.zip",
@@ -2629,6 +2641,12 @@
         "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Backup.zip",
         "tag": "Backup",
         "upgrades": [
+          {
+            "name": "Guile",
+            "image": "https://cdn.jsdelivr.net/gh/Mexica23/June_images@main/dyroth_guile1.jpg",
+            "script": "https://raw.githubusercontent.com/Mexica23/june_2026/main/dyroth_def_guile2.zip",
+            "tag": "Collector"
+          },
           {
             "name": "Naraka Flame",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb\u003d20230615180223",
