@@ -21,6 +21,34 @@
        "tag": "Aspirants"
      },
      {
+       "heroid": 64, 
+       "name": "Oni Kabuto",
+       "image": "https://github.com/missnapokita/bisaya/raw/refs/heads/main/sauce/img/oct26/HS5cCYXWMAALGWn.jpg",
+       "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20annualstar.zip",
+       "tag": "Annual Starlight"
+     },
+     {
+       "heroid": 110, 
+       "name": "Jewel of Envy",
+       "image": "https://github.com/missnapokita/bisaya/raw/refs/heads/main/sauce/img/oct26/HSfcdS4XMAAD7DD.jpg",
+       "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Valentina%20myth.zip",
+       "tag": "New"
+     },
+     {
+       "heroid": 37, 
+       "name": "Aurora Gaming PH",
+       "image": "https://github.com/missnapokita/bisaya/raw/refs/heads/main/sauce/img/oct26/HULSG06bIAAwmGl.jpg",
+       "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lapulapu%20champion.zip",
+       "tag": "New"
+     },
+     {
+       "heroid": 44, 
+       "name": "Colossus of Light",
+       "image": "https://github.com/missnapokita/bisaya/raw/refs/heads/main/sauce/img/oct26/HS5cYo4X0AA7dLA.jpg",
+       "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20FMVP.zip",
+       "tag": "New"
+     },
+     {
        "heroid": 45, 
        "name": "Raiden Maru",
        "image": "https://github.com/lazarusph/Img/raw/refs/heads/main/v2ikao3ya7ch1.png",
